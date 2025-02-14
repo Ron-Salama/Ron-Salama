@@ -27,7 +27,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ron-Salama&layout=compact&theme=tokyonight)
-
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ron-Salama&show_icons=true&theme=tokyonight)
@@ -64,7 +63,7 @@
 | Platform | Link |
 |----------|------|
 | <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Ron Salama](https://www.linkedin.com/in/ron-salama) |
-| <img align="left" alt="Gmail logo" width="20px" src="./Images/gmail icon.svg" /> Email    | [ron.salama@gmail.com](mailto:ron.salama@gmail.com) |
+| <img align="left" alt="Gmail logo" width="20px" src="./Images/Gmail_icon_(2020).png" /> Email    | [ron.salama@gmail.com](mailto:ron.salama@gmail.com) |
 
 
 ---

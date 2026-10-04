@@ -1,70 +1,28 @@
-# Hi, I'm Ron Salama! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="50" alt="Dog GIF">
+# Ron Salama
 
-<p>
-    <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en" alt="Link to braude`s english home page">Braude College of Engineering</a> 
-    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="PC Mac Laptop GIF">
-    </em>
-</p>
+**Software Engineer** · B.Sc. Software Engineering, Braude College of Engineering (2026) · Israel
 
-> "Every bug is a lesson in disguise."
----
+At work I write **C# and C** (plus **LabVIEW**) at Omwise, building instrumentation & automation software that talks to real lab hardware: several units under test running concurrently, Windows desktop GUIs for engineers, and instrument control over SCPI, serial and TCP. I cut a recurring 8-card initialization and measurement run from about 20 minutes to under 5 by optimizing the existing automation. That code is closed-source. Before that, I led a 7-person test & diagnostics team in the IDF.
 
-### ✨ A little more about me...
+On my own projects, Claude Code agents draft most of the code. I set the requirements and acceptance checks (for example, a hand-labeled answer key), then test and measure the result and challenge the agents' claims. Each project README says where the agents got it wrong.
 
-- 🌱 I’m currently learning and exploring **C#**.
-- 👯 I’m open to collaborating on **open-source** and exciting tech projects.
-- 💬 Feel free to ask me about **Python, C, C#, Java**, or software development in general!
-- 🎮 Hobbies: Gamedev and Animation.
+## Featured projects
 
----
+**[Financial Document AI](https://github.com/Ron-Salama/rag-support-agent)** · *Python, FastAPI, Chroma, Gemini*\
+Structured extraction, RAG with page citations, and a tool-calling agent whose answers a second model verifies, over 15 public financial documents (476 pages). I hand-labeled all 15 documents blind as the answer key. The first run scored **126 of 131 fields**; after fixing what the misses revealed, **128 of 131**. One miss had passed the pipeline's own grounding check: the quote was real, but the number wasn't in it. Only the hand labels caught it.
 
-<!--
-### 📁 Notable Projects:
+**JobScan** · *Python, GitHub Actions*\
+One run: **7,256 postings from about 30 Israeli job sources, 483 past the rules, in 17 minutes** on GitHub Actions, gated by 64 regression tests. The pipeline itself calls no LLM. In a separate Claude Code step, judge agents score roles and skeptic agents attack each verdict (they changed 13 of 193).
 
----
--->
+**[Ellie Says](https://ellie-says.vercel.app)** · *Next.js, TypeScript, Firebase, Google Gemini*\
+A Hebrew-learning web app, built as a course project with classmates. Server-side API routes call Gemini for translation and game rounds, and users sign in with email or Google. [Live app](https://ellie-says.vercel.app) · [Code](https://github.com/almograz1/Ellie-Says)
 
+Also: co-developed **[SlimeKitten](https://store.steampowered.com/app/5095720/SlimeKitten/)**, a Unity / C# game released on Steam and Google Play.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ron-Salama&layout=compact&theme=tokyonight&langs_count=10)
----
+## Tech
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ron-Salama&show_icons=true&theme=tokyonight)
+C# · C · Python · TypeScript · LabVIEW · Git · GitHub Actions · Claude Code (CLI)
 
----
+## Contact
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ron-Salama&custom_title=Ron%20Salama`s%20Contributions%20&hide_border=true&theme=github-compact)](https://github.com/Ron-Salama/github-readme-activity-graph)
-
----
-
-### 🛠️ Languages:
-<img align="left" alt="Python icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C# icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="HTML5 icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3 icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<br clear="both" />
-
----
-
-### 🔧 Tools:
-<img align="left" alt="VS code icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Visual Studio icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="Eclipse icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img align="left" alt="Git icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Linux icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<br clear="both" />
-
----
-
-### 🤝 Connect with me:
-
-| Platform | Link |
-|----------|------|
-| <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Ron Salama](https://www.linkedin.com/in/ron-salama) |
-| <img align="left" alt="Gmail logo" width="20px" src="./Images/Gmail_icon_(2020).png" /> Email    | [ron.salama@gmail.com](mailto:ron.salama@gmail.com) |
-
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Fun GIF"> 
+[LinkedIn](https://www.linkedin.com/in/ron-salama) · [ron.salama@gmail.com](mailto:ron.salama@gmail.com)

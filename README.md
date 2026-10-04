@@ -14,8 +14,8 @@ Structured extraction, RAG with page citations, and a tool-calling agent whose a
 **JobScan** · *Python, GitHub Actions*\
 One run: **7,256 postings from about 30 Israeli job sources, 483 past the rules, in 17 minutes** on GitHub Actions, gated by 64 regression tests. The pipeline itself calls no LLM. In a separate Claude Code step, judge agents score roles and skeptic agents attack each verdict (they changed 13 of 193).
 
-**[Ellie Says](https://ellie-says.vercel.app)** · *Next.js, TypeScript, Firebase, Google Gemini*\
-A Hebrew-learning web app, built as a course project with classmates. Server-side API routes call Gemini for translation and game rounds, and users sign in with email or Google. [Live app](https://ellie-says.vercel.app) · [Code](https://github.com/almograz1/Ellie-Says)
+**[Ellie Says](https://github.com/almograz1/Ellie-Says)** · *Next.js, TypeScript, Firebase, Google Gemini*\
+A Hebrew-learning web app, built as a course project with classmates. Server-side API routes call Gemini for translation and game rounds, and users sign in with email or Google. The Gemini key was switched off after the course, so translation is offline; the games fall back to a built-in word list. [Code](https://github.com/almograz1/Ellie-Says) · [Live app](https://ellie-says.vercel.app)
 
 Also: co-developed **[SlimeKitten](https://store.steampowered.com/app/5095720/SlimeKitten/)**, a Unity / C# game released on Steam and Google Play.
 

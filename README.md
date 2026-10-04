@@ -21,7 +21,9 @@ Also: co-developed **[SlimeKitten](https://store.steampowered.com/app/5095720/Sl
 
 ## Tech
 
-**Languages:** C# (.NET) · C · Python · TypeScript · LabVIEW\n**AI engineering:** RAG · AI agents & tool calling · structured outputs · LLM evals · Claude Code (CLI), daily\n**Engineering:** REST APIs · GitHub Actions CI/CD · automated testing · multithreading · hardware/device integration · Git
+- **Languages:** C# (.NET) · C · Python · TypeScript · LabVIEW
+- **AI engineering:** RAG · AI agents & tool calling · structured outputs · LLM evals · Claude Code (CLI), daily
+- **Engineering:** REST APIs · GitHub Actions CI/CD · automated testing · multithreading · hardware/device integration · Git
 
 ## Contact
 
